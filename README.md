@@ -1,10 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=32&duration=3000&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Building+Products.;Solving+Problems.;Creating+Businesses+Through+Code.)](https://git.io/typing-svg)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=2&section=header"/>
+<img src="./banner.svg" width="100%" alt="Muhammad Asim — Building Products. Solving Problems. Creating Businesses Through Code."/>
 
 </div>
 
