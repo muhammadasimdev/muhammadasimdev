@@ -1,59 +1,127 @@
-````md
 <div align="center">
 
-# Muhammad Asim
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,100:2563EB&text=Muhammad%20Asim&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-### Full Stack Developer • SaaS Builder • Co-Founder of ZARYONIX
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Products+That+Matter;Creating+Businesses+Through+Code;Full+Stack+Developer;SaaS+Product+Builder;Turning+Ideas+Into+Scalable+Solutions;Always+Learning+Always+Building" />
-  </a>
-</p>
-
-<br>
-
-> Building products instead of projects.  
-> Solving business problems instead of writing random code.  
-> Focused on SaaS, automation, scalability, and real-world software.
-
-<br>
-
-`React` • `JavaScript` • `Tailwind CSS` • `Node.js` • `Django` • `PostgreSQL` • `Supabase`
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;Amazon+Virtual+Assistant;Building+Modern+Web+Applications;Django+%7C+Next.js+%7C+Python+Developer;Turning+Ideas+Into+Real+Products)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## Who Am I?
+# 💫 About Me
 
-I'm Muhammad Asim, a Full Stack Developer and Co-Founder of ZARYONIX.
+<img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3dxbXZmYjJmM2hpc2FpZ2ZwZHR4d3M4OG9vM2N5a2Y3dTJybzB4aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif">
 
-I enjoy building software that solves real business problems. My focus is not just writing code but transforming ideas into products that people can use, scale, and grow.
+### 👋 Hello, I'm Muhammad Asim
 
-My interests include:
+🚀 Passionate Full Stack Developer
 
-- SaaS Product Development
-- Full Stack Web Applications
-- Business Automation Systems
-- UI/UX Focused Experiences
-- Scalable Software Architecture
-- Startup Product Building
+💻 Building scalable web applications
 
----
+🌱 Currently learning advanced system design
 
-## Current Mission
+🛒 Amazon Virtual Assistant
 
-```txt
-[✓] Building ZARYONIX
-[✓] Developing SaaS Products
-[✓] Mastering Full Stack Engineering
-[✓] Improving System Design Skills
-[✓] Exploring Scalable Architectures
-[✓] Shipping Real-World Solutions
-````
+🎯 Goal: Create products that solve real-world problems
+
+⚡ Love working with Django, Python, Next.js and AI
+
+📍 Pakistan
 
 ---
 
-```
-```
+# 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,nextjs,react,js,ts,html,css,tailwind,nodejs,postgresql,mysql,git,github,vscode,linux,firebase" />
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 💻 Languages & Technologies
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue)
+
+### ⭐ Thanks for visiting my profile
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,100:2563EB"/>
+
+</div>
