@@ -23,12 +23,31 @@
 
 ## 🧠 Tech Arsenal
 
+### 🎨 Frontend
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,django,git,github,vscode,mysql,bootstrap" />
-
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
 
+---
+
+### ⚙️ Backend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,django" />
+</p>
+
+---
+
+### 💻 Programming Languages
+<p align="center">
+<img src="https://skillicons.dev/icons?i=javascript,python" />
+</p>
+
+---
+
+### 🛠️ Tools & Platforms
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
 ---
 
 ## 🚀 Featured Projects
