@@ -4,7 +4,7 @@
 
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;Co-founder+Of+Zaryonix;Building+Modern+Web+Applications;Django+%7C+Next.js+%7C+Python+Developer;Turning+Ideas+Into+Real+Products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;Co-Founder+Of+Zaryonix;Building+Modern+Web+Applications;Django+%7C+Next.js+%7C+Python+Developer;Turning+Ideas+Into+Real+Products)](https://git.io/typing-svg)
 
 ---
 
