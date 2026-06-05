@@ -10,7 +10,6 @@
 
 # 💫 About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3dxbXZmYjJmM2hpc2FpZ2ZwZHR4d3M4OG9vM2N5a2Y3dTJybzB4aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif">
 
 ### 👋 Hello, I'm Muhammad Asim
 
