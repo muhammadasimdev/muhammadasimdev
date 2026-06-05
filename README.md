@@ -1,91 +1,61 @@
-
-# Hi 👋, I'm Muhammad Asim
-
 <div align="center">
 
-### 🚀 Web Developer | Django Developer | Amazon Virtual Assistant | Entrepreneur
-
-Building modern web applications, solving real-world problems, and continuously learning new technologies.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=250&section=header&text=Muhammad%20Asim&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 </div>
 
+<h1 align="center">Hi 👋, I'm Muhammad Asim</h1>
+<h3 align="center">Web Developer | Amazon Virtual Assistant | Tech Enthusiast</h3>
+
 ---
 
-## 💫 About Me
+## 🚀 About Me
 
-* 💻 Web Developer focused on modern web technologies
-* 🐍 Django Developer
-* 🛒 Amazon Virtual Assistant
-* 🚀 Founder of ZARYONIX
-* 📚 Passionate about learning and sharing knowledge
-* 🎯 Goal: Create impactful products through code
+- 💻 Web Developer passionate about building real-world projects  
+- 📦 Amazon Virtual Assistant  
+- 🎯 Focused on improving skills & building scalable web apps  
+- 🌱 Currently working on Django & full-stack projects  
+- 🎓 Education: ICS (Computer Science)
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
-
-HTML • CSS • JavaScript • TypeScript • React • Next.js • Tailwind CSS
-
-### Backend
-
-Python • Django • REST APIs
-
-### Database
-
-SQLite • PostgreSQL • MySQL
-
-### Tools
-
-Git • GitHub • VS Code • Microsoft Office
+- 💡 Languages: HTML, CSS, JavaScript, Python  
+- ⚙️ Frameworks: Django  
+- 🗄️ Database: SQLite / MySQL  
+- 🧰 Tools: Git, GitHub, VS Code, Microsoft Office  
 
 ---
 
-## 📈 GitHub Stats
+## 📌 Current Projects
+
+- 🏪 Django Store Management System (with invoice & calculations)  
+- 🎓 Student Management System (with roll number slip generator)  
+- 🌐 Personal Portfolio Website  
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadasimdev\&show_icons=true\&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=muhammadasimdev\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadasimdev\&layout=compact\&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=muhammadasimdev&show_icons=true&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadasimdev&layout=compact&theme=tokyonight" height="180"/>
 
 </div>
 
 ---
 
-## 🌱 Currently Learning
+## 🌐 Connect With Me
 
-* Advanced Django Development
-* TypeScript
-* Next.js
-* AI Applications
-* SaaS Development
-
----
-
-## 🚀 Featured Projects
-
-### 🎓 Student Management System
-
-A Django-based platform for managing student records and generating roll number slips.
-
-### 🏪 Store Management System
-
-A complete business solution with product management, customer management, invoices, and sales tracking.
-
----
-
-## 📫 Connect With Me
-
-* GitHub: https://github.com/muhammadasimdev
+- GitHub: [muhammadasimdev](https://github.com/muhammadasimdev)  
+- Email: your-email@example.com *(replace this)*  
 
 ---
 
 <div align="center">
 
-### ⭐ Building Products. Solving Problems. Creating Businesses Through Code.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer"/>
 
 </div>
