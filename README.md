@@ -107,7 +107,7 @@
 <a href="mailto:your-email@example.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://your-portfolio-link.com" target="_blank">
+<a href="https://my-portfolio-gold-omega-48.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
